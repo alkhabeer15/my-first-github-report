@@ -3,4 +3,24 @@ div{
     color: rgb(9, 247, 247);
     padding: 10px;
     margin-bottom: 5px;
+    width: 1080px;
+}
+ol{
+    background-color: blueviolet;
+    color: rgb(23, 251, 125);
+    border-width: 40px;
+    text-align: center;
+    width: 190px;
+}
+h2{
+    color: rgb(247, 87, 228);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    background-color: rgb(2, 254, 61);
+    color: hsl(27, 100%, 45%);
+    width: 200px;
+    text-align: center;
+
 }
