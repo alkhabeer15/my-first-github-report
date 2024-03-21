@@ -4,6 +4,7 @@ div{
     padding: 10px;
     margin-bottom: 5px;
     width: 1080px;
+    border: 5px solid mediumaquamarine;
 }
 ol{
     background-color: blueviolet;
@@ -22,5 +23,6 @@ h1{
     color: hsl(27, 100%, 45%);
     width: 200px;
     text-align: center;
+    border: 3px solid purple;
 
 }
